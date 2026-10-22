@@ -24,11 +24,6 @@ I build end-to-end systems that turn messy real-world inputs — case files, mat
 A multi-agent research prototype for forensic clinical disability assessment. Local-first OCR/LLM extraction, human-confirmed goniometer readings, and a deterministic rule engine for ROM loss, disability clauses and recovery periods.  
 `Python` `PaddleOCR` `LLM agents` `Rule engine`
 
-### [tennis-trace-1](https://github.com/Sabersmaster9/tennis-trace-1)
-
-Tennis match analysis from video: TrackNet ball tracking, 14-keypoint court detection, CatBoost bounce prediction and player tracking.  
-`Python` `PyTorch` `OpenCV` `TrackNet`
-
 ### [pingpong-test](https://github.com/Sabersmaster9/pingpong-test)
 
 A one-click Streamlit benchmark for comparing LLM accuracy on a table-tennis question set, with connectivity probes, retry/backoff and dual accuracy metrics.  
